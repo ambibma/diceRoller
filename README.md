@@ -1,6 +1,9 @@
-# first_app
 
-A new Flutter project.
+
+# Dice Roller
+<img src="./diceRollingApp.png" width=200px>
+
+A dice roller practice application in Flutter/Dart. Click the roll dice button to roll the dice!
 
 ## Getting Started
 
